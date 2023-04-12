@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.c18fe98d.css",
-    "main.js": "/static/js/main.66925573.js",
-    "index.html": "/index.html",
-    "main.c18fe98d.css.map": "/static/css/main.c18fe98d.css.map",
-    "main.66925573.js.map": "/static/js/main.66925573.js.map"
+    "main.css": "/offerrum-test/static/css/main.c18fe98d.css",
+    "main.js": "/offerrum-test/static/js/main.66925573.js",
+    "index.html": "/offerrum-test/index.html",
+    "main.c18fe98d.css.map": "/offerrum-test/static/css/main.c18fe98d.css.map",
+    "main.66925573.js.map": "/offerrum-test/static/js/main.66925573.js.map"
   },
   "entrypoints": [
     "static/css/main.c18fe98d.css",
